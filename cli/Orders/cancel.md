@@ -13,7 +13,7 @@ sidebar_label: "orders cancel"
 $ spctl orders cancel <id> [--config <config>]
 ```
 
-cancel order
+Cancel order
 
 ## Description:
 
