@@ -13,7 +13,7 @@ sidebar_label: "orders get"
 $ spctl orders get <id> [--fields <fields>] [--suborders <boolean>] [--suborders_fields <fields>] [--config <config>]
 ```
 
-get order
+Get order
 
 ## Description:
 
