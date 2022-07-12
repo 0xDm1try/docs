@@ -5,7 +5,7 @@ slug: "/files/upload"
 sidebar_label: "files upload"
 ---
 
-# spctl files download
+# spctl files upload
 
 ## Usage:
 
@@ -13,7 +13,7 @@ sidebar_label: "files upload"
 $ spctl files upload <localPath> [--output <path>] [--metadata <path>] [--config <config>]
 ```
 
-upload a file or a directory to the remote storage 
+Upload a file or a directory to the remote storage 
 
 ## Description:
 
